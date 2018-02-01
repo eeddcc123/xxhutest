@@ -10,6 +10,16 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+	
+	//i am  god ，do you  know
+	
+	//来吧  小弟们，我们等你
+	//hello
+	//哈哈
+	//我有俩啦
+	//testlesjlksj
+	
+	//i am  god ，do you  know
     /**
      * Create the test case
      *
