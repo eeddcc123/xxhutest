@@ -12,14 +12,8 @@ public class AppTest
 {
 	
 	//i am  god ，do you  know
-	
-	//来吧  小弟们，我们等你
-	//hello
-	//哈哈
-	//我有俩啦
-	//testlesjlksj
-	
-	//i am  god ，do you  know
+//213213213213
+	//我是谁来着
     /**
      * Create the test case
      *
