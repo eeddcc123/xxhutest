@@ -15,7 +15,11 @@ public class AppTest
 //213213213213
 	//我是谁来着1232132131
 	//43434343
+
     /**testestesxxhu
+=======
+    /**
+>>>>>>> branch 'master' of https://github.com/eeddcc123/xxhutest.git
      * Create the test case
      *
      * @param testName name of the test case
